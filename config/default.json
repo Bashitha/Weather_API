@@ -1,0 +1,4 @@
+{
+  "db": "mongodb://localhost/weatherDb",
+  "weather_api_url": "http://demo4567044.mockable.io/weather"
+}
